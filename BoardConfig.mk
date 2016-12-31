@@ -25,7 +25,7 @@ TARGET_OTA_ASSERT_DEVICE := Z00L
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_Z00L_defconfig
+TARGET_KERNEL_CONFIG := Z00L_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
